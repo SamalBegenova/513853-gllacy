@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Samal Begenova](https://up.htmlacademy.ru/htmlcss/19/user/513853).
-* Наставник: `Неизвестно`.
+* Наставник: [Вячеслав Афонасьев](https://htmlacademy.ru/profile/id243797)
 
 ---
 
